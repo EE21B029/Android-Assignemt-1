@@ -1,5 +1,5 @@
 #Least Recently used should be removed or to add a new one
-
+#move_to_end is an inbuilt function of OrderedDict
 from collections import OrderedDict
 
 class LRU:
